@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cortezmosher
 - 👀 I’m interested in learning front and and back end web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
